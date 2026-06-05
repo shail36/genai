@@ -1,0 +1,2 @@
+# genai
+Learning GEN AI
