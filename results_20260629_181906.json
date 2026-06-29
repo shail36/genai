@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-29T18:19:04.157105",
+  "weather": {
+    "city": "Mumbai",
+    "temperature_c": 27.5,
+    "wind_speed_kmh": 12.7,
+    "fetched_at": "2026-06-29T18:19:05.047086"
+  },
+  "top_repos": [
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "stars": 112398,
+      "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "stars": 35632,
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "stars": 27988,
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    },
+    {
+      "name": "Stability-AI/generative-models",
+      "stars": 27211,
+      "url": "https://github.com/Stability-AI/generative-models"
+    },
+    {
+      "name": "NirDiamant/GenAI_Agents",
+      "stars": 22921,
+      "url": "https://github.com/NirDiamant/GenAI_Agents"
+    }
+  ],
+  "joke": {
+    "setup": "Knock-knock.",
+    "punchline": "A race condition. Who is there?"
+  }
+}

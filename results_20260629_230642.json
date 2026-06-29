@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-29T23:06:39.760914",
+  "weather": {
+    "city": "kanpur",
+    "temperature_c": 31.3,
+    "wind_speed_kmh": 7.5,
+    "fetched_at": "2026-06-29T23:06:41.747223"
+  },
+  "top_repos": [
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "stars": 112402,
+      "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    {
+      "name": "CopilotKit/CopilotKit",
+      "stars": 35636,
+      "url": "https://github.com/CopilotKit/CopilotKit"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "stars": 27994,
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    },
+    {
+      "name": "Stability-AI/generative-models",
+      "stars": 27212,
+      "url": "https://github.com/Stability-AI/generative-models"
+    },
+    {
+      "name": "NirDiamant/GenAI_Agents",
+      "stars": 22925,
+      "url": "https://github.com/NirDiamant/GenAI_Agents"
+    }
+  ],
+  "joke": {
+    "setup": "What’s the object-oriented way to become wealthy?",
+    "punchline": "Inheritance."
+  }
+}
